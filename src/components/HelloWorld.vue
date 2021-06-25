@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
-    
+    <p>我爱你</p>
+    <p>我不爱你<p>
+    <p>那你爱谁啊<p>
   </div>
 </template>
 
@@ -30,3 +32,5 @@ a {
   color: #42b983;
 }
 </style>
+
+
